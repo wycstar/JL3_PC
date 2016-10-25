@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image/LED">
+        <file>LED_GREEN.png</file>
+        <file>LED_RED.png</file>
+        <file>LED_BLUE.png</file>
+    </qresource>
+    <qresource prefix="/ICON">
+        <file>NOTE.png</file>
+        <file>ARROW_BOLD_RIGHT.png</file>
+        <file>ARROW_BOLD_DOWN.png</file>
+    </qresource>
+</RCC>
